@@ -1,0 +1,1 @@
+print("Hello World!")#只是一句很簡略的Hello World 這是儀式感
