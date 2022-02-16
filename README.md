@@ -10,7 +10,7 @@ _這裡會放上一些平常_**基礎**_的小練習_
 ### AddFolder ###
 >>##### 新增資料夾 #####
 >>###### 使用技術：Mkdir
->### BMI_Calculation ###
+### BMI_Calculation ###
 >>##### BMI計算機 #####
 >>###### 使用技術：基本運算
 ### CreateFiles ###
